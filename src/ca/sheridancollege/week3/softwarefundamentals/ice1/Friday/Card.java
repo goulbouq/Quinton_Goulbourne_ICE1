@@ -6,8 +6,8 @@
 package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
- *
- * @author Ronak
+ * Student #: 991624741
+ * @author GoulbouQ
  */
 public class Card {
 
