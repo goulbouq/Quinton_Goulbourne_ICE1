@@ -13,7 +13,7 @@ public class CardTrick {
        Lebron.setValue(9);
        System.out.println(Lebron.getSuit());
        System.out.println(Lebron.getValue());
-       
+       Card Russ = new Card();
     }
     
 }
